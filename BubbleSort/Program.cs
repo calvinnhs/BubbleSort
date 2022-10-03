@@ -81,7 +81,7 @@ namespace BubbleShort
         }
         static void Main(string[] args)
         {
-            // crwaring the object of the BubbleSort class
+            // creating the object of the BubbleSort class
             Program mylist = new Program();
 
             //pemanggilan fungsi untuk menerima elemen array
